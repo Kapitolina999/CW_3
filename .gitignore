@@ -1,0 +1,6 @@
+/venv/
+/basic.txt
+__pycache__/
+.idea
+env/
+
